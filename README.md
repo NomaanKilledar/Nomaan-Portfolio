@@ -25,7 +25,7 @@ A Python-based CLI project focused on network and endpoint security utilities, i
 
 **Repository:** [NEXUS on GitHub](https://github.com/NomaanKilledar/NEXUS)
 
-And many more adding soon
+**And many more adding soon**
 
 ## Portfolio Features
 
